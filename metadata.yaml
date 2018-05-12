@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40552'
     url: http://www.gutenberg.org/2009/agents/40552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40325#True-to-a-Type-Vol.-II--of-2-
 gutenberg_issued: '2012-07-24'
 gutenberg_type: Text
 identifiers:
